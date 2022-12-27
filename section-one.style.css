@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@100&display=swap');
+ * {
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+  }
+  body {
+    font-family: "Chivo+Mono", sans-serif;
+    background: rgb(99, 99, 172);
+  }
+  .two-column-layout{
+    background:rgb(217, 219, 209)
+  }
+  .two-column-layout
+  .left-column(50%){width: 50%;padding;  5%}
+  .right_-column(50%){width: 50%;padding; 5%}
